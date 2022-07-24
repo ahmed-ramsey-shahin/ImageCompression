@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
 from matplotlib import image as img
+import matplotlib.pyplot as plt
 import numpy as np
 import sys
 
